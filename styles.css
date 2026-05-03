@@ -1,7 +1,9 @@
-body{
+@charset "UTF-8";
+
+body {
     background-image: linear-gradient(to right, darkgreen, green, lightgreen);
 }
 
-h1{
+h1 {
     text-align: center;
 }
