@@ -7,3 +7,9 @@ body {
 h1 {
     text-align: center;
 }
+@font-face {
+  font-family: 'Fira';
+  src: url('FiraSansCondensed-Bold.ttf');
+}
+.fonte{
+    font-family:'Fira',sans-serif;
