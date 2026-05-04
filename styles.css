@@ -15,7 +15,7 @@ h1 {
     font-family:'Fira',sans-serif;
 }
 img{
-    height: 150px;
-    width: 150px;
+    height: 150px !important;
+    width: 150px !important;
     border-radius: 10px;
     }
